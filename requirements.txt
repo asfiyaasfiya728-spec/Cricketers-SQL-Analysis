@@ -1,0 +1,25 @@
+# ⚙ Requirements
+
+To run this project, you need:
+
+- Oracle Live SQL or any SQL environment
+- Basic knowledge of SQL
+- GitHub account for project hosting
+
+---
+
+# 💻 Software / Platforms Used
+
+- Oracle Live SQL
+- GitHub
+- SQL
+
+---
+
+# 📌 SQL Features Required
+
+- Aggregate Functions
+- Filtering
+- Sorting
+- Grouping
+- HAVING Clause
